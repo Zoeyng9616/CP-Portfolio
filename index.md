@@ -1,6 +1,6 @@
 ## Welcome to Zoey Ng's Programming Portfolio
 
-![typing test](https://github.com/Zoeyng9616/CP-Portfolio/blob/gh-pages/images/Screenshot%202020-08-27%20at%201.13.51%20PM.png?raw=true)
+![typing test](https://github.com/Zoeyng9616/CP-Portfolio/blob/gh-pages/images/TypingTest.png?raw=true)
 
 You can use the [editor on GitHub](https://github.com/Zoeyng9616/CP-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
